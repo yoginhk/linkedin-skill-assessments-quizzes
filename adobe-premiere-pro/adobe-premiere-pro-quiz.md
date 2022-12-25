@@ -214,8 +214,8 @@ E. Blur
 ![image](images/006.png?raw=png)
 
 - [ ] Trim In
-- [x] Trim Out
-- [ ] Ripple Trim In
+- [] Trim Out
+- [x] Ripple Trim In
 - [ ] Ripple Trim Out
 
 #### Q29. Which formats does Adobe Media Encoder support? (Select three items.)
@@ -307,13 +307,13 @@ E. Ellipse
 - [ ] A, B, C
 - [ ] A, C, E
 - [ ] B, C, E
-- [ ] B, D, E
+- [x] B, D, E
 
 #### Q38. Which option can create a color field that automatically adjusts size as you add or subtract from a text layer?
 
 ![image](images/009.png?raw=png)
 
-- [ ] Choose Fill from the Appearance controls.
+- [a] Choose Fill from the Appearance controls.
 - [ ] Choose Stroke from the Appearance controls.
 - [ ] Choose Background from the Appearance controls.
 - [ ] Choose Shadow from the Appearance controls.
@@ -321,7 +321,7 @@ E. Ellipse
 #### Q39. If you want to lighten just the darkest areas of an image, which slider should you adjust in the Lumetri effect?
 
 - [ ] Shadows
-- [ ] Contrast
+- [x] Contrast
 - [ ] Midtones
 - [ ] Blacks
 
@@ -338,20 +338,20 @@ E. Ellipse
 
 - [ ] Sequence
 - [ ] File
-- [ ] Edit
+- [x] Edit
 - [ ] Clip
 
 #### Q42. Which adjustment can you use to quickly convert log footage using recommended settings by a camera manufacturer?
 
 - [ ] Creative Look
 - [ ] Faded Film
-- [ ] Input LUT
+- [x] Input LUT
 - [ ] Intensity
 
 #### Q43. Which Audio Mixer automation mode allows an automation to return to the previous state after any adjustments are made?
 
 - [ ] Touch
-- [ ] Latch
+- [x] Latch
 - [ ] Write
 - [ ] Read
 
@@ -367,7 +367,7 @@ E. Ellipse
 - [ ] Convert Image Sequences to Clips
 - [ ] Convert After Effects Compositions to Clips
 - [ ] Include Preview Files
-- [ ] Consolidate and Transcode
+- [x] Consolidate and Transcode
 
 #### Q46. Which option is enabled to affect the view of the audio waveforms as shown below?
 
@@ -380,7 +380,7 @@ E. Ellipse
 
 #### Q47. You want to float the History panel independently to position it on another monitor as a floating window. Which option in the panel's submenu should you select?
 
-- [ ] Undock Panel
+- [x] Undock Panel
 - [ ] Undock Frame
 - [ ] Maximize Panel
 - [ ] Maximize Frame
